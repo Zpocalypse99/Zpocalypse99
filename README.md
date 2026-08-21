@@ -16,4 +16,8 @@ Rise of The Zombots (https://drive.google.com/file/d/1QTp-jWuLjsAQfiKjAoVb8NB0p-
 
 Dr. Malware (https://drive.google.com/file/d/1Xrec5y0FH0a6DoWmSQ_N5WqyiWHOUQte/view?usp=drive_link) - Falling pill puzzle game where you play as a hacker getting rid of viruses. 
 
+Currently working on:
+
+Roguelike 3rd person shooter game - (https://github.com/Zpocalypse99/Roguelike3PS)
+
 
