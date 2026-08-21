@@ -12,10 +12,8 @@ Programs - Unreal Engine 5, Unity, Archipelago Client
 
 Finished Projects:
 
-Rise of The Zombots () - 
+Rise of The Zombots (https://drive.google.com/file/d/1QTp-jWuLjsAQfiKjAoVb8NB0p-AnAJlL/view?usp=drive_link) - Level based FPS game with a robot/zombie theme.
 
-
-
-Dr. Malware () -
+Dr. Malware (https://drive.google.com/file/d/1Xrec5y0FH0a6DoWmSQ_N5WqyiWHOUQte/view?usp=drive_link) - Falling pill puzzle game where you play as a hacker getting rid of viruses. 
 
 
